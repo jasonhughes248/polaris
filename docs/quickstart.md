@@ -83,7 +83,7 @@ Then, clone Spark and check out a versioned branch. This guide uses [Spark 3.5.0
 cd ~
 git clone https://github.com/apache/spark.git
 cd ~/spark
-git checkout branch-3.5.0
+git checkout remotes/origin/branch-3.5.0
 ```
 
 ## Deploying Polaris 
